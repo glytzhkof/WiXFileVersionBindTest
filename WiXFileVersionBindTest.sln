@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "WiXFileVersionBindTest", "WiXFileVersionBindTest\WiXFileVersionBindTest.wixproj", "{84F561C7-0750-4DA3-9FE8-07F5BE2E6E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F561C7-0750-4DA3-9FE8-07F5BE2E6E15}.Debug|Default.ActiveCfg = Debug|x86
+		{84F561C7-0750-4DA3-9FE8-07F5BE2E6E15}.Release|Default.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E013BA1-7884-4AF2-9403-E52C1B71448B}
+	EndGlobalSection
+EndGlobal
