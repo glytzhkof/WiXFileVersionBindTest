@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
   <Product Id="*" Name="WiXFileVersionBindTest" Version="!(bind.fileVersion.notepad.exe)"
-           Manufacturer="Someone" Language="1033" UpgradeCode="8cdfb70d-5904-4f36-9971-479afa669d4b">
+           Manufacturer="Someone" Language="1033" UpgradeCode="PUT-GUID-HERE">
     <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
 
     <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
